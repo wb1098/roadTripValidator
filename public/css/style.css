@@ -1,0 +1,14 @@
+body {
+    background-color: dodgerblue;
+    font-family: fantasy;
+}
+
+header {
+    height: 100px;
+    background-color: chartreuse;
+}
+
+button {
+    height: 30px;
+    background-color: coral;
+}
